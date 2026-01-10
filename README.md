@@ -46,6 +46,9 @@ TurtleFlags/
 
 ## 🚀 How to Run the Project
 
+###Easiest way###
+Use a website (for example [Web Tiger Python by ETHZ] (https://webtigerpython.ethz.ch/)) and paste the code in the website.
+
 1. Make sure you have **Python** installed  
 2. Open a terminal in the folder  
 3. Run any file like this:
