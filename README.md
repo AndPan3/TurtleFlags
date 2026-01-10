@@ -80,6 +80,8 @@ This project was created to:
 - Greece
 - Germany 
 - Switzerland
+- Japan
+- Italy
 
 More flags coming soon!
 
