@@ -76,9 +76,10 @@ This project was created to:
 
 ## 🌍 Flags Available
 
-- Greece 🇬🇷  
-- Germany 🇩🇪  
-- Switzerland 🇨🇭  
+- France
+- Greece
+- Germany 
+- Switzerland
 
 More flags coming soon!
 
