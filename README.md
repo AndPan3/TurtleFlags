@@ -24,16 +24,12 @@ No advanced knowledge required!
 
 ```
 TurtleFlags/
-│
-├─ flags/
-│  ├─ greece1.py
-│  ├─ Switzerland1
-│  └─ perfectflags/
-│     ├─ germany.py
-│     └─ perfectflags.md
-│
-├─ LICENSE
-└─ README.md
+  flags/
+    continent/
+      flags in continent
+    perfectflags/
+      continent/
+      flags in continent
 ```
 
 ### Folder Explanation
