@@ -74,7 +74,7 @@ This project was created to:
 
 ---
 
-## 🌍 Flags Available
+## 🌍 Perfect flags available
 
 - Armenia
 - Japan
@@ -83,6 +83,7 @@ This project was created to:
 - Greece
 - Italy
 - Switzerland
+- Morocco
 
 More flags coming soon!
 
