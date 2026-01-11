@@ -76,12 +76,13 @@ This project was created to:
 
 ## 🌍 Flags Available
 
-- France
-- Greece
-- Germany 
-- Switzerland
+- Armenia
 - Japan
+- France
+- Germany
+- Greece
 - Italy
+- Switzerland
 
 More flags coming soon!
 
