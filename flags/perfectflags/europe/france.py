@@ -1,4 +1,4 @@
-#please note that these arent the real proportions
+
 
 from turtle import*
 #defines how you make a stripe
